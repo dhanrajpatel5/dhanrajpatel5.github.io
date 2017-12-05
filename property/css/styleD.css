@@ -1,0 +1,71 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
+}
+.custom-nav{
+    border:0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+    background-color:#a9dee5!important;
+    -webkit-box-shadow: 0 0 10px rgba(0.0.0.1);
+    -moz-box-shadow: 0 0 10px rgba(0.0.0.1);
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+.logo{
+    color:#ffffff!important;
+    font-family: 'Spectral SC', serif;
+    font-weight:300;
+  }
+  
+header{
+    height: 700px;
+    background: url(../../img/goa.jpg) no-repeat center center fixed;
+    color:#fff;
+    padding:100px;
+}
+
+.banner-title{
+    font-family: 'Spectral SC', serif;
+    font-weight:100;
+    font-size:40px;
+}
+
+h2{
+    font-family: 'Spectral SC', serif;
+    font-size:18px;
+}
+
+#India{
+    padding: 45px 0px;
+}
+
+.video{
+    padding:40px 0px;
+    background-color: #b71212
+}
+@media (max-width: 500px){
+    .youtube-video {
+    width:100%
+    }
+}
+
+
+
+footer{
+    background-color: #a9dee5!important;
+    padding: 25px 0px;
+    
+}
+ 
+  li{
+     color:#ffffff;
+     display:block;
+ }
+ 
+ 
